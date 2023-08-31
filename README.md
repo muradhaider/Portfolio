@@ -231,6 +231,7 @@ Please Click Here to view the full project and code.
 # Resume
 
 Please Click Here to view or download a PDF version of my resume.
+https://drive.google.com/drive/u/1/folders/1b7fk_G6PAmPD_kDiynoZfz8C8dQJ9agO
 
 Professional References
 
