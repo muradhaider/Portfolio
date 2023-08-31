@@ -2,12 +2,12 @@
 Murad Haider - Portfolio
 
 
-#Murad Haider { 
+# Murad Haider { 
         Computer Science Portfolio
 2110 Horseshoe glen circle Folsom, CA 95630
 (916)-541-6669 | muradh192001@gmail.com
 
-#About
+# About
 
 Background:
 As a recent graduate with a Bachelor of Science in Computer Science from the University of the Pacific in California. Despite being originally from Palestine, my upbringing in California has given me a unique cross-cultural perspective.
@@ -22,7 +22,7 @@ Leading diverse indicator development on trading platforms. Crafting automated t
 Computer Science Portfolio
 The following will highlight some of the experience I have gained in my current years and it is forever growing. Some of my favorite projects are the mario game and a personal project I worked on to parse through an input file and sort the elements within it.
 
-#Major-related Courses
+# Major-related Courses
 
 •	COMP 051: Into to Computer Science | C++
 •	COMP 047: Discrete Math for Computer Science
@@ -36,12 +36,12 @@ The following will highlight some of the experience I have gained in my current 
 •	COMP 159: Computer Game Technologies | C#
 •	COMP 173: Operating Systems | C
 
-#CS Community Involvement 
+# CS Community Involvement 
 
 I am a member of the Association of Engineering students (AES) at the University of the Pacific and we propose solutions to ASUOP in order to find solutions to different projects.  
 
 
-#Academic and Programming Skills
+# Academic and Programming Skills
 
 C++                                                                         
 C#
@@ -56,8 +56,8 @@ SQL
 Azure Machine Learning
 Pinescript
 ThinkScript
-               AWS
-               R Studio
+AWS
+R Studio
 VSCode
 Visual Studio
 PyCharm
@@ -100,10 +100,10 @@ Problem Solving
 
 
 
-#Languages
+# Languages
 	English
 	Arabic 
-#Research and Projects 
+# Research and Projects 
 
 Fall 2020 COMP 055 Application Development Semester Project
 For this course, we worked on a game or application of our choice for the duration of the semester. Our only restrictions were that we needed to use Java in eclipse and work with github in order to commit, push, and submit work. 
@@ -228,7 +228,7 @@ Link
 Please Click Here to view the full project and code.
 
 
-Resume
+# Resume
 
 Please Click Here to view or download a PDF version of my resume.
 
