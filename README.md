@@ -2,7 +2,7 @@
 Murad Haider - Portfolio
 
 
-# Murad Haider { 
+## Murad Haider { 
         Computer Science Portfolio
 2110 Horseshoe glen circle Folsom, CA 95630
 (916)-541-6669 | muradh192001@gmail.com
