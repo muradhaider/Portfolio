@@ -196,6 +196,7 @@ Link
 
 
 Please Click Here to view the full project and code.
+https://replit.com/@Haidesss/Project-1-Phases-22
 
 Senior Project Futures Trading Algorithm
 The system architecture consists of a single computer with Windows 10 or higher and NinjaTrader 8. The computer will be connected to a prop firm account, which will allow the user to access the NinjaTrader 8 strategy builder and C# environment. The futures trading algorithm will be designed and run in real-time using historical market data.
@@ -226,6 +227,7 @@ Link
 
 
 Please Click Here to view the full project and code.
+https://github.com/muradhaider/senior-project-spring-2023-futures-trading-algorithm
 
 
 # Resume
