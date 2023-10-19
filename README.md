@@ -2,7 +2,7 @@
 Murad Haider - Portfolio
 
 
-## Murad Haider { 
+# Murad Haider { 
         Computer Science Portfolio
 2110 Horseshoe glen circle Folsom, CA 95630
 (916)-541-6669 | muradh192001@gmail.com
@@ -36,7 +36,7 @@ The following will highlight some of the experience I have gained in my current 
 •	COMP 159: Computer Game Technologies | C#
 •	COMP 173: Operating Systems | C
 
-# CS Community Involvement 
+CS Community Involvement 
 
 I am a member of the Association of Engineering students (AES) at the University of the Pacific and we propose solutions to ASUOP in order to find solutions to different projects.  
 
@@ -56,8 +56,8 @@ SQL
 Azure Machine Learning
 Pinescript
 ThinkScript
-AWS
-R Studio
+               AWS
+               R Studio
 VSCode
 Visual Studio
 PyCharm
@@ -103,102 +103,56 @@ Problem Solving
 # Languages
 	English
 	Arabic 
+ 
 # Research and Projects 
 
-Fall 2020 COMP 055 Application Development Semester Project
+# Fall 2020 COMP 055 Application Development Semester Project
 For this course, we worked on a game or application of our choice for the duration of the semester. Our only restrictions were that we needed to use Java in eclipse and work with github in order to commit, push, and submit work. 
 
 
 My group and I ended up developing a 2D Tile game remake of Super Mario. This was intended to be a very simple and user-friendly project. We split the roles up and I mainly worked on physics, UI, and collision detection. 
 
 Tools Used
-
-
-
+SEE FULL DOCUMENT IN FILES
 
 Code 
 
 This segment of code was particularly the most frustrating and time consuming on my behalf. However, I thankfully had a team so I was not alone in the process. We needed to make sure that the sprite character of our game did not simply go through the entities. We did this by creating hit boxes in order to detect when the entities or objects were being touched. Then we return the hitboxes of the entity passed. We were able to work well as a team in order to get through the collision detection due to the fact we had not done it ever before.  This elaborates on my teamwork and problem solving skills. 
-
+SEE FULL DOCUMENT IN FILES
 
 
 
 UML Diagram
+SEE FULL DOCUMENT IN FILES
 
 Presentation Slides
-
- 
-
+SEE FULL DOCUMENT IN FILES
 
 
-
-
-
-
-SPRING 2021 COMP 141 Programming Languages Python Parser Project
+# SPRING 2021 COMP 141 Programming Languages Python Parser Project
 
 For this project I was already very curious about how stock scanners worked and upon doing some research I found there were many ways to parse and sort certain inputs. However, I was not advanced enough to learn how to import all the stock details necessary so this project allowed me to start small with a normal .txt input file and write a program to sort through the file and output the correct identifier for each token. 
 
 
 The output of the program as you can see went through line by line and sorted each token or element in a line into its correct type. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+SEE FULL DOCUMENT IN FILES
 
 
 Tools Used
-
+SEE FULL DOCUMENT IN FILES
 
 
 Code
 
 The following code is the beginning phases of this project. There will be a link to the full project down below. This segment of code shows the different variables that we have and the scanner in order to go through each line and find a match for the correct variable or type. We also have the tokens which will set the items or tokens that matched  to the corresponding variable. We used python and repl to create this project and then we would run it using the shell.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+SEE FULL DOCUMENT IN FILES
 
 
 Link
-
-
 Please Click Here to view the full project and code.
-https://replit.com/@Haidesss/Project-1-Phases-22
+SEE FULL DOCUMENT IN FILES
 
-Senior Project Futures Trading Algorithm
+# Senior Project Futures Trading Algorithm
 The system architecture consists of a single computer with Windows 10 or higher and NinjaTrader 8. The computer will be connected to a prop firm account, which will allow the user to access the NinjaTrader 8 strategy builder and C# environment. The futures trading algorithm will be designed and run in real-time using historical market data.
 
 The Futures Trading Algorithm will be based on an object-oriented design using UML. The software design will consist of a class diagram showing all classes and their associations, including public and protected members. The main entry/exit condition of the algorithm will be based on the EMA and VMA crosses. These crosses will help determine the direction of the trend and provide signals for entering and exiting trades.
@@ -209,13 +163,7 @@ Furthermore, the algorithm will be designed to run in real-time using historical
 
 Tools Used
 
-
-
-
-
-
-
-
+SEE FULL DOCUMENT IN FILES
 
 Code
 
@@ -224,18 +172,46 @@ The implementation of the code for this project was carried out using C# within 
 
 
 Link
-
-
 Please Click Here to view the full project and code.
-https://github.com/muradhaider/senior-project-spring-2023-futures-trading-algorithm
+SEE FULL DOCUMENT IN FILES
+
+# OHLC Half Cycle of Time and Price
+This project introduces a custom technical indicator designed for the financial markets. Developed in collaboration with an experienced Chicago CME market technician, the indicator combines various technical analysis components to provide traders with valuable insights into market dynamics and potential trading opportunities.
+
+Key Features:
+Bollinger Bands with Dynamic Standard Deviations: The indicator utilizes Bollinger Bands for technical analysis. The Bollinger Bands employ dynamic standard deviations from the mean. These standard deviations are adjusted as follows:
+2.6 Standard Deviations
+3 Standard Deviations
+3.6 Standard Deviations
+4 Standard Deviations
+
+Oscillator: The indicator includes an oscillator that calculates the difference between four different Exponential Moving Averages (EMAs) and the highest high and lowest low over the past 144 bars. This oscillator serves as a robust tool for identifying trends and gauging market momentum.
+
+Elliott Wave Pattern Detection: Leveraging chaos theory, the indicator identifies potential Elliott Wave patterns, including "3 up, 3 down" and "4 up, 4 down" sequences. These patterns are invaluable for traders engaged in wave analysis, aiding in precise trend recognition and predictive analytics.
+
+Technical Implementation: The indicator is implemented using JavaScript and C#, ensuring compatibility with a variety of trading platforms and software tools, making it highly accessible for traders across different environments.
+
+Practical Application: Traders and analysts can seamlessly apply this custom indicator to financial charts, enabling them to decode market trends, pinpoint potential trend reversals, and identify wave patterns. It empowers traders to make well-informed decisions and effectively manage risk within their trading strategies.
+
+It should be noted that this should be utilized in conjunction with other analytical techniques and risk management strategies to optimize trading outcomes.
+Tools Used
+
+
+
+
+
+
+Link
+Please Click Here to view the full project and code.
+SEE FULL DOCUMENT IN FILES
+
 
 
 # Resume
-
 Please Click Here to view or download a PDF version of my resume.
-https://drive.google.com/drive/u/1/folders/1b7fk_G6PAmPD_kDiynoZfz8C8dQJ9agO
+SEE FULL DOCUMENT IN FILES
 
-Professional References
+# Professional References
 
 Vincent Klaib
 	Sac Capital Auto
@@ -253,9 +229,19 @@ Gustavo Martinez
 	A1 Auto
 	Supervisor
 	3303 Fulton Ave, Sacramento, CA 95821
-	(916) - 606 - 2263 
+(916) - 606-2263
 
+Hamode Serhan
+	Eco Light Trading Co. 
+	Supervisor
+	0 Alain, Majed Al-Kurum, Israel 2019000
+	+972 - 054 - 487 - 8486
 
+Ahed Sarehan
+	Sarehan Engineering LTD.
+	Supervisor
+	0 Alain, Majed Al-Kurum, Israel 2019000
+ 	+972 - 054 - 480 - 9373
 
 
 
